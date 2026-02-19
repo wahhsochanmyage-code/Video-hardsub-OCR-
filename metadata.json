@@ -1,0 +1,5 @@
+{
+  "name": "VisionOCR: Video Subtitle Extractor",
+  "description": "A professional-grade tool for extracting hard-coded subtitles from videos using Gemini 3's advanced vision capabilities. Features adjustable OCR zones, frame-accurate timing, and multi-language support.",
+  "requestFramePermissions": []
+}
